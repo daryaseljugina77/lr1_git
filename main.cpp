@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "Figure: trapezoid" << endl;
+	cout << "Figure: trapezoid darya" << endl;
 	int a, b, c, d, h;
 
    	do {
