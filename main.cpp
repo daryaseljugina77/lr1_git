@@ -2,7 +2,7 @@
 #include <cmath>
 int main() {
     double a, b, c;
-    std::cout << "Shape: triangle" << std::endl;
+    std::cout << "Shape:kseniya triangle" << std::endl;
     // Ввод стороны a
     do {
         std::cout << "Enter a > 0: ";
